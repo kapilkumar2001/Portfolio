@@ -327,6 +327,7 @@ i {
 
 strong,
 b {
+	text-align: center;
 	font-weight: bold;
 	line-height: inherit;
 }
